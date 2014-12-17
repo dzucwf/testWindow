@@ -5,9 +5,9 @@ public class Student {
 	
 	private String name;
 	
-	public Student(String name){
+	public Student(String names){
 		
-		this.name = name;
+		this.name = names;
 		
 	}
 
